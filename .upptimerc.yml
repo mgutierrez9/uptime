@@ -10,7 +10,7 @@ sites:
   - name: Procom
     url: https://www.procomitsolutions.com
     
- assignes:
+ assignees:
     - mgutierrez9
 
 
