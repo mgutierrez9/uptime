@@ -40,19 +40,19 @@
     "url": "https://www.procomitsolutions.com",
     "icon": "https://favicons.githubusercontent.com/www.procomitsolutions.com",
     "slug": "procom",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 2655,
-    "timeDay": 2852,
-    "timeWeek": 2655,
-    "timeMonth": 2655,
-    "timeYear": 2655,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 2600,
+    "timeDay": 2460,
+    "timeWeek": 2566,
+    "timeMonth": 2600,
+    "timeYear": 2600,
     "dailyMinutesDown": {
-      "2022-06-08": 25
+      "2022-06-08": 41
     }
   }
 ]
