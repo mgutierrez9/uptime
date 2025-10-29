@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 83,
-    "timeWeek": 85,
+    "timeDay": 92,
+    "timeWeek": 87,
     "timeMonth": 88,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 579,
-    "timeWeek": 215,
-    "timeMonth": 176,
-    "timeYear": 187,
+    "timeDay": 88,
+    "timeWeek": 218,
+    "timeMonth": 177,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.procomitsolutions.com.ico",
     "slug": "procom",
     "status": "up",
-    "uptime": "83.52%",
+    "uptime": "83.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 801,
-    "timeWeek": 1005,
-    "timeMonth": 1102,
-    "timeYear": 1254,
+    "time": 1158,
+    "timeDay": 956,
+    "timeWeek": 1055,
+    "timeMonth": 1094,
+    "timeYear": 1253,
     "dailyMinutesDown": {}
   }
 ]
