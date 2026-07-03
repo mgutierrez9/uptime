@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 40,
-    "timeWeek": 104,
-    "timeMonth": 140,
-    "timeYear": 181,
+    "time": 180,
+    "timeDay": 203,
+    "timeWeek": 136,
+    "timeMonth": 147,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://www.procomitsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.procomitsolutions.com.ico",
     "slug": "procom",
-    "status": "down",
-    "uptime": "84.02%",
-    "uptimeDay": "85.28%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "90.92%",
-    "time": 1095,
-    "timeDay": 108,
-    "timeWeek": 787,
-    "timeMonth": 714,
-    "timeYear": 1028,
+    "status": "up",
+    "uptime": "83.97%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "85.73%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "90.68%",
+    "time": 1096,
+    "timeDay": 960,
+    "timeWeek": 915,
+    "timeMonth": 750,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2026-04-27": 1432,
       "2026-04-26": 1440,
@@ -86,7 +86,8 @@
       "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 27,
-      "2026-07-02": 212
+      "2026-07-03": 4,
+      "2026-07-02": 1435
     }
   }
 ]
