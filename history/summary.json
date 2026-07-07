@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.procomitsolutions.com.ico",
     "slug": "procom",
     "status": "down",
-    "uptime": "84.02%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "85.73%",
-    "uptimeMonth": "96.72%",
-    "uptimeYear": "90.68%",
+    "uptime": "84.01%",
+    "uptimeDay": "86.23%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "90.64%",
     "time": 1099,
     "timeDay": 231,
     "timeWeek": 1469,
@@ -88,7 +88,7 @@
       "2026-03-25": 27,
       "2026-07-03": 4,
       "2026-07-02": 1435,
-      "2026-07-07": 0
+      "2026-07-07": 198
     }
   }
 ]
