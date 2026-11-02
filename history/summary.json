@@ -42,10 +42,10 @@
     "slug": "procom",
     "status": "down",
     "uptime": "85.06%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "90.14%",
+    "uptimeDay": "88.96%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "90.11%",
     "time": 1220,
     "timeDay": 371,
     "timeWeek": 1324,
@@ -90,7 +90,7 @@
       "2026-07-02": 1435,
       "2026-07-07": 1429,
       "2026-08-01": 1435,
-      "2026-11-02": 0
+      "2026-11-02": 159
     }
   }
 ]
